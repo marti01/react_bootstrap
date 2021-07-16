@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.177fb7ae.chunk.css",
-    "main.js": "/static/js/main.fe088b53.chunk.js",
-    "main.js.map": "/static/js/main.fe088b53.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6105540c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6105540c.js.map",
-    "static/js/2.ee6660e8.chunk.js": "/static/js/2.ee6660e8.chunk.js",
-    "static/js/2.ee6660e8.chunk.js.map": "/static/js/2.ee6660e8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.177fb7ae.chunk.css.map": "/static/css/main.177fb7ae.chunk.css.map",
-    "static/js/2.ee6660e8.chunk.js.LICENSE.txt": "/static/js/2.ee6660e8.chunk.js.LICENSE.txt"
+    "main.css": "/react_bootstrap/build/static/css/main.177fb7ae.chunk.css",
+    "main.js": "/react_bootstrap/build/static/js/main.9a54ebeb.chunk.js",
+    "main.js.map": "/react_bootstrap/build/static/js/main.9a54ebeb.chunk.js.map",
+    "runtime-main.js": "/react_bootstrap/build/static/js/runtime-main.8aac8266.js",
+    "runtime-main.js.map": "/react_bootstrap/build/static/js/runtime-main.8aac8266.js.map",
+    "static/js/2.ee6660e8.chunk.js": "/react_bootstrap/build/static/js/2.ee6660e8.chunk.js",
+    "static/js/2.ee6660e8.chunk.js.map": "/react_bootstrap/build/static/js/2.ee6660e8.chunk.js.map",
+    "index.html": "/react_bootstrap/build/index.html",
+    "static/css/main.177fb7ae.chunk.css.map": "/react_bootstrap/build/static/css/main.177fb7ae.chunk.css.map",
+    "static/js/2.ee6660e8.chunk.js.LICENSE.txt": "/react_bootstrap/build/static/js/2.ee6660e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6105540c.js",
+    "static/js/runtime-main.8aac8266.js",
     "static/js/2.ee6660e8.chunk.js",
     "static/css/main.177fb7ae.chunk.css",
-    "static/js/main.fe088b53.chunk.js"
+    "static/js/main.9a54ebeb.chunk.js"
   ]
 }
